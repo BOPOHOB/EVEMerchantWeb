@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+    <title>Добро пожаловать</title>
+    <link rel="shortcut icon" href="/favicon.png" type="image/png">
+</head>
+<body>
+    <p>{{character_name}}, ты успешно подключил бота, теперь он будет сообщать о состоянии твоих предложений в магазиной EVE</p>
+</body>
+</html>

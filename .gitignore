@@ -1,0 +1,4 @@
+/target
+.env
+.auth.json
+auth.json
