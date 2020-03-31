@@ -1,5 +1,5 @@
 [Unit]
-Description=Eve Web
+Description=merchant_web
 
 [Service]
 Restart=on-failure
