@@ -1,0 +1,6 @@
+[production]
+address = "172.104.248.101"
+port = 8000
+workers = 2
+log = "normal"
+secret_key = "qKg1VGS+nCtxbgTqxe2RDMGEQTp9QGc/mk6dUlOpA7I="

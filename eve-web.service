@@ -1,0 +1,10 @@
+[Unit]
+Description=Eve Web
+
+[Service]
+Restart=on-failure
+WorkingDirectory=/root/code/web
+ExecStart=/root/code/web/target/release/eve_merchant_web
+
+[Install]
+WantedBy=multi-user.target
